@@ -42,7 +42,7 @@ public class initScript : MonoBehaviour, IAppodealInitializationListener
     {
         if (Appodeal.CanShow(AppodealAdType.Mrec))
         {
-            Appodeal.ShowMrecView(AppodealViewPosition.HorizontalCenter, AppodealViewPosition.VerticalBottom, "default");
+            Appodeal.ShowMrecView(AppodealViewPosition.VerticalBottom, AppodealViewPosition.HorizontalCenter, "default");
         }
     }
     public void ShowRewarded()
