@@ -1171,7 +1171,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Mega Ad Simulator!
+  m_Text: Lite Demo Appodeal
 --- !u!222 &1873181636
 CanvasRenderer:
   m_ObjectHideFlags: 0

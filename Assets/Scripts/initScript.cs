@@ -38,7 +38,7 @@ public class initScript : MonoBehaviour, IAppodealInitializationListener
             Appodeal.Show(AppodealShowStyle.Interstitial);
         }
     }
-    public void ShowMrec(int type)
+    public void ShowMrec()
     {
         if (Appodeal.CanShow(AppodealAdType.Mrec))
         {
